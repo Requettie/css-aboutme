@@ -1,0 +1,16 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    background-color:bisque
+}
+
+p{
+    color:blue;
+    text-align:right;
+    background-color:violet;
+}
+
+p2{
+    color:pink;
+    text-align:left;
+    background-color:red;
+}
